@@ -15,6 +15,7 @@
 Service Catalog là 1 web api, nhằm quản lý thông tin thông tin về sản phẩm (Product)
 
 ### Setup
+* Enviroment: Visual Studio 2022, .Net Core 6.0
 * Packages
 	- Azure.Messageing.ServiceBus
 	- MongoDB.Driver
